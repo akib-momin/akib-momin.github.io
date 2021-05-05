@@ -1,9 +1,9 @@
 ## Bio
 
 ---
-I am a graduate student of Computer Science from Savitribai Phule Pune University. Since the start of My engineering Degree Studies I have been constantly learning and developing my skills to deal with Flow, Layout, Problem definition of Software, and Learning New technologies which are flooding the market to develop a Consumer Application.I have Plenty of Hands On Experience Of the technical Attributes Mentioned in my Resume and i have Full understanding of The Software Development Life-Cycle from initial Stage Of Requirement gathering to testing and Maintenance.
+I am a graduate student of Computer Science from Savitribai Phule Pune University. since the start of my engineering degree studies I have been constantly learning and developing my skills to deal with flow, layout, problem definition of software, and learning New technologies which are flooding the market to develop a consumer application. I have plenty of hands on experience of the technical attributes mentioned in my resume and I have full understanding of the software development life-cycle from initial stage of requirement gathering to testing and maintenance.
 
-My technical expertise with experience of 4+ years includes cross-platform proficiency (Windows, Linux); fluency in scripting/programming languages (including Python, Javascript), have hands-on experience in the web development framework such as Django with HTML ,CSS, Bootstrap. And also used PostgreSQL for database, worked on Django Rest Framework / Flask and GraphQL for creating REST API's, worked on pandas, numpy for data extraction and manipulation. Professional knowledge of developer applications, tools, methodologies and best practices (including OOD, client/server architecture).
+I have technical expertise with experience of 4+ years includes cross-platform proficiency (Windows, Linux); fluency in scripting/programming languages (including Python, Javascript), have hands-on experience in the web development framework such as Django with HTML ,CSS, Bootstrap and also used PostgreSQL for database, worked on Django Rest Framework / Flask and GraphQL for creating REST API's, worked on pandas, numpy for data extraction and manipulation. Professional knowledge of developer applications, tools, methodologies and best practices (including OOD, client/server architecture).
 
 ---
 
@@ -90,9 +90,6 @@ Silver Medal,                                                                   
 
 Young Professionals Committee - Society of Computer Science,                       Computer Science Dept. 2014 - 2015 <br/>
 <i> Organized quarterly Distinguished Guest Lecture Programs, conducted outreach activities to raise awareness about latest technologies </i>  
-
-Presiding Officer – Dibrugarh Constituency, Indian Parliamentary Election,  	     Election Commission of India, 2015 <br/>
-<i> Supervised team of six allowing 749 people to vote in the Indian Parliamentary election of 2014  </i>  
 
 Vice President, 	                                                                 Society of Computer Science Student Chapter, 2010 – 2011 <br/>
 <i> Organized college-level conference by raising funds and received the Silver Standard award for exceptional work  </i>  
