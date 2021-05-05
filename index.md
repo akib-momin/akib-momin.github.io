@@ -29,7 +29,7 @@ I have technical expertise with experience of 4+ years includes cross-platform p
 
 <img src="images/education%20logos.PNG?raw=true" align="middle" width="600" height="230" alt="certification logos">
 
-<b> University of Pune, India </b>
+<b> Pune University, India </b>
 
 B.E.  - Computer Science (Honors: First Class),			 		            May 2016
 
