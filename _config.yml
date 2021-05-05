@@ -1,11 +1,11 @@
 title: John Doe # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I am a graduate student of Computer Science from Savitribai Phule Pune University. Since the start of My engineering Degree Studies I have been constantly learning and developing my skills to deal with Flow, Layout, Problem definition of Software, and Learning New technologies which are flooding the market to develop a Consumer Application.I have Plenty of Hands On Experience Of the technical Attributes Mentioned in my Resume and i have Full understanding of The Software Development Life-Cycle from initial Stage Of Requirement gathering to testing and Maintenance.
   <br><br>
-  Second description 
+  My technical expertise with experience of 4+ years includes cross-platform proficiency (Windows, Linux); fluency in scripting/programming languages (including Python, Javascript), have hands-on experience in the web development framework such as Django with HTML ,CSS, Bootstrap. And also used PostgreSQL for database, worked on Django Rest Framework / Flask and GraphQL for creating REST API's, and Intermediate knowledge of developer applications, tools, methodologies and best practices (including OOD, client/server architecture). 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/wt-wasi/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
