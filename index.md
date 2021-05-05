@@ -1,35 +1,104 @@
-## Portfolio
+## Bio
+
+---
+I am a graduate student of Computer Science from Savitribai Phule Pune University. Since the start of My engineering Degree Studies I have been constantly learning and developing my skills to deal with Flow, Layout, Problem definition of Software, and Learning New technologies which are flooding the market to develop a Consumer Application.I have Plenty of Hands On Experience Of the technical Attributes Mentioned in my Resume and i have Full understanding of The Software Development Life-Cycle from initial Stage Of Requirement gathering to testing and Maintenance.
+
+My technical expertise with experience of 4+ years includes cross-platform proficiency (Windows, Linux); fluency in scripting/programming languages (including Python, Javascript), have hands-on experience in the web development framework such as Django with HTML ,CSS, Bootstrap. And also used PostgreSQL for database, worked on Django Rest Framework / Flask and GraphQL for creating REST API's, worked on pandas, numpy for data extraction and manipulation. Professional knowledge of developer applications, tools, methodologies and best practices (including OOD, client/server architecture).
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## Skills
 
 ---
 
-### Category Name 2
+**Programming:** Python, JavaScript, Git, Bash, PostgreSQL
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+**Frameworks:** Django, Flask, FastAPI
+
+**Cloud Computing:** AWS (S3, EC2, CloudFormation, lambda)
+
+**Libraries:** NumPy, Pandas, gdal, matplotlib, SQLAlchemy
+
+**Technical Knowledge:** Web Development, Rest API's, AWS, Analytical Skills
+
+---
+
+## Education
 
 ---
 
+<img src="images/education%20logos.PNG?raw=true" align="middle" width="600" height="230" alt="certification logos">
 
+<b> University of Pune, India </b>
 
+B.E.  - Computer Science (Honors: First Class),			 		            May 2016
+
+<b> Maharashtra State Board of Technical Education, India </b>
+
+Dip.  - Computer Science (Honors: First Class),			 		            May 2013
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+## Experience
+
+---
+
+<img src="images/experience%20logos.PNG?raw=true" align="middle" width="700" height="120" alt="certification logos">
+
+<b> Python Developer </b> – GeoSpoc Geospatial Services Pvt. Ltd, Oct 2019 – Present
+
+<b> Software Developer </b> – Tellme Digiinfotech Pvt. Ltd (Promoted by Indiacom Pvt. Ltd.), Jul 2018 – Oct 2019
+
+<b> Associate Data Analyst </b> – Selling Simplified Pvt Ltd, Mar 2017 – Apr 2018 
+
+<b> Software Developer </b> – GabZil Tech Pvt. Ltd, Jun 2016 – Nov 2016
+
+---
+
+## Publications
+
+---
+[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=lzGlBzQAAAAJ)
+---
+
+### A)	Vision of Future: Augmented Reality Vision via Augmented Web
+
+R Bhardwaj, V Bheed, P Bhide, *W Tamboli*, A Momin, (2015). On Vision of Future: Augmented Reality Vision via Augmented Web in IJSRD - International Journal for Scientific Research & Development| Vol. 3, Issue 09, 2015 | ISSN (online): 2321-0613. https://doi.org/10.1016/j.marpetgeo.2019.04.038. [PDF]()
+
+### B)	Vision of Future: Augmented Reality Vision
+
+R Bhardwaj, V Bheed, P Bhide, *W Tamboli*, A Momin, (2015). Vision of Future: Augmented Reality Vision on IJSRD - International Journal for Scientific Research & Development| Vol. 3, Issue 08, 2015 | ISSN (online): 2321-0613. [PDF]()
+
+---
+
+## Professional Development
+
+---
+
+**Awards**
+
+Department of Computer Science,  			                                             Anual Challenge, 2015 <br/>
+<i> Award for best poster among 20+ candidates </i>
+
+Advanced Communicator Bronze,  					                                           Inter-collage Paper Presentation, 2012 <br/>
+<i> Awards for completing 10 public speaking assignments on latest topics </i>
+
+Silver Medal,                                                                      Pune, 2010 <br/>
+<i> Award for Drawing Traffic Awareness Poster </i>
+
+**Service**
+
+Young Professionals Committee - Society of Computer Science,                       Computer Science Dept. 2014 - 2015 <br/>
+<i> Organized quarterly Distinguished Guest Lecture Programs, conducted outreach activities to raise awareness about latest technologies </i>  
+
+Presiding Officer – Dibrugarh Constituency, Indian Parliamentary Election,  	     Election Commission of India, 2015 <br/>
+<i> Supervised team of six allowing 749 people to vote in the Indian Parliamentary election of 2014  </i>  
+
+Vice President, 	                                                                 Society of Computer Science Student Chapter, 2010 – 2011 <br/>
+<i> Organized college-level conference by raising funds and received the Silver Standard award for exceptional work  </i>  
+
+Editor, 	                                                                         Society of Computer Science Student Chapter, 2009 – 2010 <br/>
+<i> Enabled design and publication of annual departmental magazine by assembling competent team, delegating work, filtering and editing of submitted articles while meeting editorial deadlines </i>
+
+---
+
