@@ -59,6 +59,7 @@ Dip.  - Computer Science (Honors: First Class),			 		            May 2013
 
 ---
 [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=lzGlBzQAAAAJ)
+
 ---
 
 ### A)	Vision of Future: Augmented Reality Vision via Augmented Web
@@ -68,7 +69,8 @@ R Bhardwaj, V Bheed, P Bhide, *W Tamboli*, A Momin, (2015). On Vision of Future:
 ### B)	Vision of Future: Augmented Reality Vision
 
 R Bhardwaj, V Bheed, P Bhide, *W Tamboli*, A Momin, (2015). Vision of Future: Augmented Reality Vision on IJSRD - International Journal for Scientific Research & Development| Vol. 3, Issue 08, 2015 | ISSN (online): 2321-0613. [PDF](./pdf/Vision2.pdf)
-<br>
+
+---
 
 ## Professional Development
 
