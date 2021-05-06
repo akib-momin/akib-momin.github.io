@@ -4,7 +4,7 @@ favicon: ./favicon.ico
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   B.E. in Computer Science, Pune University
-  <br>
+  <br><br>
   Python Developer, Geospoc
   <br><br>
   <a href="https://www.linkedin.com/in/wt-wasi/">View My LinkedIn Profile</a> 
