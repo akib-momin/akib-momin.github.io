@@ -27,7 +27,7 @@ I have technical expertise with experience of 4+ years includes cross-platform p
 
 ---
 
-<img src="images/education%20logos.PNG?raw=true" align="middle" width="600" height="230" alt="certification logos">
+<img src="images/uni.jpg?raw=true" align="middle" width="600" height="230" alt="uni logos">
 
 <b> Pune University, India </b>
 
@@ -43,13 +43,13 @@ Dip.  - Computer Science (Honors: First Class),			 		            May 2013
 
 ---
 
-<img src="images/experience%20logos.PNG?raw=true" align="middle" width="700" height="120" alt="certification logos">
+<img src="images/experience.png?raw=true" align="middle" width="700" height="120" alt="experience logos">
 
-<b> Python Developer </b> – GeoSpoc Geospatial Services Pvt. Ltd, Oct 2019 – Present
+<b> Python Developer </b> – [GeoSpoc Geospatial Services Pvt. Ltd](https://geospoc.com/), Oct 2019 – Present
 
-<b> Software Developer </b> – Tellme Digiinfotech Pvt. Ltd (Promoted by Indiacom Pvt. Ltd.), Jul 2018 – Oct 2019
+<b> Software Developer </b> – [Tellme Digiinfotech Pvt. Ltd (Promoted by Indiacom Pvt. Ltd.)](https://youtellme.ai/), Jul 2018 – Oct 2019
 
-<b> Associate Data Analyst </b> – Selling Simplified Pvt Ltd, Mar 2017 – Apr 2018 
+<b> Associate Data Analyst </b> – [Selling Simplified Pvt Ltd](https://sellingsimplified.com/), Mar 2017 – Apr 2018 
 
 <b> Software Developer </b> – GabZil Tech Pvt. Ltd, Jun 2016 – Nov 2016
 
@@ -63,11 +63,11 @@ Dip.  - Computer Science (Honors: First Class),			 		            May 2013
 
 ### A)	Vision of Future: Augmented Reality Vision via Augmented Web
 
-R Bhardwaj, V Bheed, P Bhide, *W Tamboli*, A Momin, (2015). On Vision of Future: Augmented Reality Vision via Augmented Web in IJSRD - International Journal for Scientific Research & Development| Vol. 3, Issue 09, 2015 | ISSN (online): 2321-0613. [PDF]()
+R Bhardwaj, V Bheed, P Bhide, *W Tamboli*, A Momin, (2015). On Vision of Future: Augmented Reality Vision via Augmented Web in IJSRD - International Journal for Scientific Research & Development| Vol. 3, Issue 09, 2015 | ISSN (online): 2321-0613. [PDF](./pdf/vision1.pdf)
 
 ### B)	Vision of Future: Augmented Reality Vision
 
-R Bhardwaj, V Bheed, P Bhide, *W Tamboli*, A Momin, (2015). Vision of Future: Augmented Reality Vision on IJSRD - International Journal for Scientific Research & Development| Vol. 3, Issue 08, 2015 | ISSN (online): 2321-0613. [PDF]()
+R Bhardwaj, V Bheed, P Bhide, *W Tamboli*, A Momin, (2015). Vision of Future: Augmented Reality Vision on IJSRD - International Journal for Scientific Research & Development| Vol. 3, Issue 08, 2015 | ISSN (online): 2321-0613. [PDF](./pdf/vision2.pdf)
 
 ---
 
@@ -77,24 +77,24 @@ R Bhardwaj, V Bheed, P Bhide, *W Tamboli*, A Momin, (2015). Vision of Future: Au
 
 **Awards**
 
-Department of Computer Science,  			                                             Anual Challenge, 2015 <br/>
+Department of Computer Science,  			                                        Anual Challenge, 2015 <br/>
 <i> Award for best poster among 20+ candidates </i>
 
-Advanced Communicator Bronze,  					                                           Inter-collage Paper Presentation, 2012 <br/>
+Advanced Communicator Bronze,  					                                    Inter-collage Paper Presentation, 2012 <br/>
 <i> Awards for completing 10 public speaking assignments on latest topics </i>
 
-Silver Medal,                                                                      Pune, 2010 <br/>
+Silver Medal,                                                                       Pune, 2010 <br/>
 <i> Award for Drawing Traffic Awareness Poster </i>
 
 **Service**
 
-Young Professionals Committee - Society of Computer Science,                       Computer Science Dept. 2014 - 2015 <br/>
+Young Professionals Committee - Society of Computer Science,                        Computer Science Dept. 2014 - 2015 <br/>
 <i> Organized quarterly Distinguished Guest Lecture Programs, conducted outreach activities to raise awareness about latest technologies </i>  
 
-Vice President, 	                                                                 Society of Computer Science Student Chapter, 2010 – 2011 <br/>
+Vice President, 	                                                                Society of Computer Science Student Chapter, 2014 – 2015 <br/>
 <i> Organized college-level conference by raising funds and received the Silver Standard award for exceptional work  </i>  
 
-Editor, 	                                                                         Society of Computer Science Student Chapter, 2009 – 2010 <br/>
+Editor, 	                                                                        Society of Computer Science Student Chapter, 2013 – 2015 <br/>
 <i> Enabled design and publication of annual departmental magazine by assembling competent team, delegating work, filtering and editing of submitted articles while meeting editorial deadlines </i>
 
 ---
