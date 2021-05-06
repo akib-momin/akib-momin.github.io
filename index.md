@@ -100,7 +100,5 @@ Editor, 	                                                                       
 ## Contact
 
 ---
-  I'm currently looking for python developer opportunities or freelance projects.
+  I'm currently looking for python developer opportunities or freelance projects.<br/>
   If you would like to discuss a project or employment opportunities, please do not hesitate to get in touch.
-
----
