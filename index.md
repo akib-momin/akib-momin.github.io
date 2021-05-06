@@ -27,7 +27,7 @@ I have technical expertise with experience of 4+ years includes cross-platform p
 
 ---
 
-<img src="images/uni.jpg?raw=true" align="middle" width="600" height="230" alt="uni logos">
+<img src="images/uni.jpg?raw=true" align="middle" width="400" height="140" alt="uni logos">
 
 <b> Pune University, India </b>
 
@@ -63,11 +63,11 @@ Dip.  - Computer Science (Honors: First Class),			 		            May 2013
 
 ### A)	Vision of Future: Augmented Reality Vision via Augmented Web
 
-R Bhardwaj, V Bheed, P Bhide, *W Tamboli*, A Momin, (2015). On Vision of Future: Augmented Reality Vision via Augmented Web in IJSRD - International Journal for Scientific Research & Development| Vol. 3, Issue 09, 2015 | ISSN (online): 2321-0613. [PDF](./pdf/vision1.pdf)
+R Bhardwaj, V Bheed, P Bhide, *W Tamboli*, A Momin, (2015). On Vision of Future: Augmented Reality Vision via Augmented Web in IJSRD - International Journal for Scientific Research & Development| Vol. 3, Issue 09, 2015 | ISSN (online): 2321-0613. [PDF](./pdf/Vision1.pdf)
 
 ### B)	Vision of Future: Augmented Reality Vision
 
-R Bhardwaj, V Bheed, P Bhide, *W Tamboli*, A Momin, (2015). Vision of Future: Augmented Reality Vision on IJSRD - International Journal for Scientific Research & Development| Vol. 3, Issue 08, 2015 | ISSN (online): 2321-0613. [PDF](./pdf/vision2.pdf)
+R Bhardwaj, V Bheed, P Bhide, *W Tamboli*, A Momin, (2015). Vision of Future: Augmented Reality Vision on IJSRD - International Journal for Scientific Research & Development| Vol. 3, Issue 08, 2015 | ISSN (online): 2321-0613. [PDF](./pdf/Vision2.pdf)
 
 ---
 
