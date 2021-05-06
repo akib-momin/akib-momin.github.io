@@ -68,7 +68,7 @@ R Bhardwaj, V Bheed, P Bhide, *W Tamboli*, A Momin, (2015). On Vision of Future:
 ### B)	Vision of Future: Augmented Reality Vision
 
 R Bhardwaj, V Bheed, P Bhide, *W Tamboli*, A Momin, (2015). Vision of Future: Augmented Reality Vision on IJSRD - International Journal for Scientific Research & Development| Vol. 3, Issue 08, 2015 | ISSN (online): 2321-0613. [PDF](./pdf/Vision2.pdf)
-
+<br>
 
 ## Professional Development
 
@@ -97,4 +97,10 @@ Editor, 	                                                                       
 <i> Enabled design and publication of annual departmental magazine by assembling competent team, delegating work, filtering and editing of submitted articles while meeting editorial deadlines </i>
 
 ---
+## Contact
 
+---
+  I'm currently looking for python developer opportunities or freelance projects.
+  If you would like to discuss a project or employment opportunities, please do not hesitate to get in touch.
+
+---
