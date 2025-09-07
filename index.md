@@ -3,7 +3,7 @@
 ---
 I have done my graduation in Computer Science from Savitribai Phule Pune University. Since the start of my engineering degree studies I have been constantly learning and developing my skills to deal with flow, layout, problem definition of software, and learning New technologies which are flooding the market to develop a consumer application. I have plenty of hands on experience of the technical attributes mentioned in my resume and I have full understanding of the software development life-cycle from initial stage of requirement gathering to testing and maintenance.
 
-I have technical expertise with experience of 4+ years includes cross-platform proficiency (Windows, Linux); fluency in scripting / programming languages (including Python, Javascript), have hands-on experience in the web development framework such as Django with HTML ,CSS, Bootstrap and also used PostgreSQL for database, worked on Django Rest Framework / Flask and GraphQL for creating REST API's, worked on pandas, numpy for data extraction and manipulation. Professional knowledge of developer applications, tools, methodologies and best practices (including OOD, client/server architecture).
+I have technical expertise with experience of 8+ years includes cross-platform proficiency (Windows, Linux); fluency in scripting / programming languages (including Python, Javascript), have hands-on experience in the web development framework such as Django with HTML ,CSS, Bootstrap and also used PostgreSQL for database, worked on Django Rest Framework / Flask and GraphQL for creating REST API's, worked on pandas, numpy for data extraction and manipulation. Professional knowledge of developer applications, tools, methodologies and best practices (including OOD, client/server architecture).
 
 ---
 
@@ -19,7 +19,7 @@ I have technical expertise with experience of 4+ years includes cross-platform p
 
 **Libraries:** NumPy, Pandas, gdal, matplotlib, SQLAlchemy
 
-**Technical Knowledge:** Web Development, Rest API's, AWS, Analytical Skills
+**Technical Knowledge:** GIS, Web Development, Rest API's, AWS, Analytical Skills
 
 ---
 
@@ -45,7 +45,11 @@ Dip.  - Computer Science (Honors: First Class),			 		            May 2013
 
 <img src="images/experience.png?raw=true" align="middle" width="700" height="120" alt="experience logos">
 
-<b> Python Developer </b> – [GeoSpoc Geospatial Services Pvt. Ltd](https://geospoc.com/), Oct 2019 – Present
+<b> Software Developer </b> – [GeoSpoc an OLA company](https://geospoc.com/), Aug 2024 – Present
+
+<b> Software Developer </b> – [GeoSpoc an OLA company](https://geospoc.com/), Dec 2023 – Jul 2024
+
+<b> Software Developer </b> – [GeoSpoc an OLA company](https://geospoc.com/), Oct 2019 – Nov 2023
 
 <b> Software Developer </b> – [Tellme Digiinfotech Pvt. Ltd (Promoted by Indiacom Pvt. Ltd.)](https://youtellme.ai/), Jul 2018 – Oct 2019
 
