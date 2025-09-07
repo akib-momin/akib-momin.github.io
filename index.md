@@ -45,11 +45,11 @@ Dip.  - Computer Science (Honors: First Class),			 		            May 2013
 
 <img src="images/experience.png?raw=true" align="middle" width="700" height="120" alt="experience logos">
 
-<b> Software Developer </b> – [GeoSpoc an OLA company](https://geospoc.com/), Aug 2024 – Present
+<b> Senior Software Engineer </b> – [Genesys International Corporation Ltd](http://www.igenesys.com/), Aug 2024 – Present
 
-<b> Software Developer </b> – [GeoSpoc an OLA company](https://geospoc.com/), Dec 2023 – Jul 2024
+<b> Senior Software Engineer </b> – [Spiro](http://spironet.com/), Dec 2023 – Jul 2024
 
-<b> Software Developer </b> – [GeoSpoc an OLA company](https://geospoc.com/), Oct 2019 – Nov 2023
+<b> Software Developer </b> – [GeoSpoc an OLA company](https://www.linkedin.com/company/ola-campus-pune/about/), Oct 2019 – Nov 2023
 
 <b> Software Developer </b> – [Tellme Digiinfotech Pvt. Ltd (Promoted by Indiacom Pvt. Ltd.)](https://youtellme.ai/), Jul 2018 – Oct 2019
 
