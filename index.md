@@ -63,7 +63,7 @@ Dip.  - Computer Science (Honors: First Class),			 		            May 2013
 
 ---
 
-[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=lzGlBzQAAAAJ)
+[Google Scholar](https://scholar.google.com/citations?user=W4scCi0AAAAJ&hl=en)
 
 
 ### A)	Vision of Future: Augmented Reality Vision via Augmented Web
