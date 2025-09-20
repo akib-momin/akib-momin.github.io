@@ -3,7 +3,7 @@
 ---
 I have done my graduation in Computer Science from Savitribai Phule Pune University. Since the start of my engineering degree studies I have been constantly learning and developing my skills to deal with flow, layout, problem definition of software, and learning New technologies which are flooding the market to develop a consumer application. I have plenty of hands on experience of the technical attributes mentioned in my resume and I have full understanding of the software development life-cycle from initial stage of requirement gathering to testing and maintenance.
 
-I have technical expertise with experience of 8+ years includes cross-platform proficiency (Windows, Linux); fluency in scripting / programming languages (including Python, Javascript), have hands-on experience in the web development framework such as Django with HTML ,CSS, Bootstrap and also used PostgreSQL for database, worked on Django Rest Framework / Flask and GraphQL for creating REST API's, worked on pandas, numpy for data extraction and manipulation. Professional knowledge of developer applications, tools, methodologies and best practices (including OOD, client/server architecture).
+I have technical expertise with experience of 5+ years includes cross-platform proficiency (Windows, Linux); fluency in scripting / programming languages (including Javascript), have hands-on experience in the web development framework such as React Js with HTML ,CSS, Bootstrap and also used MongoDB for database, worked on Node Js Rest for creating REST API's, worked on MongoDB Compass for data extraction and manipulation. Professional knowledge of developer applications, tools, methodologies and best practices.
 
 ---
 
@@ -11,15 +11,13 @@ I have technical expertise with experience of 8+ years includes cross-platform p
 
 ---
 
-**Programming:** Python, JavaScript, Git, Bash, PostgreSQL
+**Programming:** JavaScript, Git, Bash, PostgreSQL
 
-**Frameworks:** Django, Flask, FastAPI
-
-**Cloud Computing:** AWS (S3, EC2, CloudFormation, lambda)
+**Frameworks:** React JS, React Native, Node JS
 
 **Libraries:** NumPy, Pandas, gdal, matplotlib, SQLAlchemy
 
-**Technical Knowledge:** GIS, Web Development, Rest API's, AWS, Analytical Skills
+**Technical Knowledge:** Web Development, Rest API's
 
 ---
 
