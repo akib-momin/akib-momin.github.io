@@ -43,17 +43,13 @@ Dip.  - Computer Science (Honors: First Class),			 		            May 2013
 
 <img src="images/experience.png?raw=true" align="middle" width="700" height="120" alt="experience logos">
 
-<b> Senior Software Engineer </b> – [Genesys International Corporation Ltd](http://www.igenesys.com/), Aug 2024 – Present
+<b> Senior Software Engineer </b> – [Orion Technology Ltd], April 2024 – Present
 
-<b> Senior Software Engineer </b> – [Spiro](http://spironet.com/), Dec 2023 – Jul 2024
+<b> Software Developer </b> – [Nimap Infotech Pvt. Ltd], Jan 2022 – March 2024
 
-<b> Software Developer </b> – [GeoSpoc an OLA company](https://www.linkedin.com/company/ola-campus-pune/about/), Oct 2019 – Nov 2023
+<b> Senior Websote Developer </b> – [Affinity Express Pvt. Ltd], Jan 2021 – Dec 2021 
 
-<b> Software Developer </b> – [Tellme Digiinfotech Pvt. Ltd (Promoted by Indiacom Pvt. Ltd.)](https://youtellme.ai/), Jul 2018 – Oct 2019
-
-<b> Associate Data Analyst </b> – [Selling Simplified Pvt Ltd](https://sellingsimplified.com/), Mar 2017 – Apr 2018 
-
-<b> Software Developer </b> – GabZil Tech Pvt. Ltd, Jun 2016 – Nov 2016
+<b> Website Developer </b> – Affinity Express Pvt. Ltd, May 2019 – Jan 2021
 
 ---
 
@@ -105,7 +101,7 @@ Editor, 	                                                                       
 
 ---
 
-  I'm currently looking for python developer opportunities or freelance projects.<br/>
+  I'm currently looking for React Js developer opportunities or freelance projects.<br/>
   If you would like to discuss a project or employment opportunities, please do not hesitate to get in touch.
 
 ---
