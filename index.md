@@ -45,11 +45,11 @@ Dip.  - Computer Science (Honors: First Class),			 		            May 2013
 
 <b> Senior Software Engineer </b> – [Orion Technology Ltd], April 2024 – Present
 
-<b> Software Developer </b> – [Nimap Infotech Pvt. Ltd], Jan 2022 – March 2024
+<b> Software Developer </b> – [Nimap Infotech Pvt. Ltd](https://nimapinfotech.com/), Jan 2022 – March 2024
 
-<b> Senior Websote Developer </b> – [Affinity Express Pvt. Ltd], Jan 2021 – Dec 2021 
+<b> Senior Websote Developer </b> – [Affinity Express Pvt. Ltd](https://affinityx.com/), Jan 2021 – Dec 2021 
 
-<b> Website Developer </b> – Affinity Express Pvt. Ltd, May 2019 – Jan 2021
+<b> Website Developer </b> – [Affinity Express Pvt. Ltd](https://affinityx.com/), May 2019 – Jan 2021
 
 ---
 
