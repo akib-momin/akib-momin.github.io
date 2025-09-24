@@ -3,7 +3,7 @@
 ---
 I have done my graduation in Computer Science from Savitribai Phule Pune University. Since the start of my engineering degree studies I have been constantly learning and developing my skills to deal with flow, layout, problem definition of software, and learning New technologies which are flooding the market to develop a consumer application. I have plenty of hands on experience of the technical attributes mentioned in my resume and I have full understanding of the software development life-cycle from initial stage of requirement gathering to testing and maintenance.
 
-I have technical expertise with experience of 5+ years includes cross-platform proficiency (Windows, Linux); fluency in scripting / programming languages (including Javascript), have hands-on experience in the web development framework such as React Js with HTML ,CSS, Bootstrap and also used MongoDB for database, worked on Node Js Rest for creating REST API's, worked on MongoDB Compass for data extraction and manipulation. Professional knowledge of developer applications, tools, methodologies and best practices.
+I have technical expertise with experience of 5+ years includes cross-platform proficiency (Windows, Linux); programming languages (including Javascript), have hands-on experience in the web development framework such as React Js, React Native with HTML ,CSS, Bootstrap and also used MongoDB for database, worked on Node Js Rest for creating REST API's, worked on MongoDB Compass for data extraction and manipulation. Professional knowledge of developer applications, tools, methodologies and best practices.
 
 ---
 
@@ -11,13 +11,15 @@ I have technical expertise with experience of 5+ years includes cross-platform p
 
 ---
 
-**Programming:** JavaScript, Git, Bash, PostgreSQL
+**Programming:** JavaScript, ES6+, TypeScript, 
 
-**Frameworks:** React JS, React Native, Node JS
+**Frameworks & Libraries:** React.js, React Native, Node.js, Redux Toolkit, Express.js
 
-**Libraries:** NumPy, Pandas, gdal, matplotlib, SQLAlchemy
+**Databases:** MongoDB (with MongoDB Compass)
 
-**Technical Knowledge:** Web Development, Rest API's
+**Tools & Platforms:** Git, Jira, Firebase, DigitalOcean, Postman, GoDaddy
+
+**Technical Knowledge:** Web Development, Mobile Application Development, REST APIs, API Integration, Authentication & Authorization, Push Notifications, Payment Integration
 
 ---
 
@@ -43,7 +45,7 @@ Dip.  - Computer Science (Honors: First Class),			 		            May 2013
 
 <img src="images/experience.png?raw=true" align="middle" width="700" height="120" alt="experience logos">
 
-<b> Senior Software Engineer </b> – [Orion Technology Ltd], April 2024 – Present
+<b> Senior Software Engineer </b> – [Orion Technology Ltd](https://thefutur.mu/), April 2024 – Present
 
 <b> Software Developer </b> – [Nimap Infotech Pvt. Ltd](https://nimapinfotech.com/), Jan 2022 – March 2024
 
@@ -79,9 +81,6 @@ R Bhardwaj, V Bheed, P Bhide, *W Tamboli*, A Momin, (2015). Vision of Future: Au
 Department of Computer Science,  			                                        Anual Challenge, 2015 <br/>
 <i> Award for best poster among 20+ candidates </i>
 
-Advanced Communicator Bronze,  					                                    Inter-collage Paper Presentation, 2012 <br/>
-<i> Awards for completing 10 public speaking assignments on latest topics </i>
-
 Silver Medal,                                                                       Pune, 2010 <br/>
 <i> Award for Drawing Traffic Awareness Poster </i>
 
@@ -93,8 +92,6 @@ Young Professionals Committee - Society of Computer Science,                    
 Vice President, 	                                                                Society of Computer Science Student Chapter, 2014 – 2015 <br/>
 <i> Organized college-level conference by raising funds and received the Silver Standard award for exceptional work  </i>  
 
-Editor, 	                                                                        Society of Computer Science Student Chapter, 2013 – 2015 <br/>
-<i> Enabled design and publication of annual departmental magazine by assembling competent team, delegating work, filtering and editing of submitted articles while meeting editorial deadlines </i>
 
 ---
 ## Contact
