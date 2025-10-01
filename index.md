@@ -43,7 +43,7 @@ Dip.  - Computer Science (Honors: First Class),			 		            May 2013
 
 ---
 
-<img src="images/experience.JPG?raw=true" align="middle" width="750" height="120" alt="experience logos">
+<img src="images/experience.JPG?raw=true" align="middle" width="750" height="100" alt="experience logos">
 
 <b> Senior Software Engineer </b> – [Orion Technology Ltd](https://thefutur.mu/), April 2024 – Present
 
